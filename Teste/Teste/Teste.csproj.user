@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Views\Car.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\DeleteCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\InsertCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\PageInicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\RegistrationVehicle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Views\Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

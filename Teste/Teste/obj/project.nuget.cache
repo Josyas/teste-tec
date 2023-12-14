@@ -1,0 +1,58 @@
+{
+  "version": 2,
+  "dgSpecHash": "QKR7IYvK+3woNvQ58XuA5iwTxDq8nBrvMQAPXvuu7H1gGHfAx7CN5RtWpPWp0gTpsisB9vb6G/nLNgmHi+D6Sw==",
+  "success": true,
+  "projectFilePath": "E:\\TesteNovo\\Teste\\Teste\\Teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josia\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.14\\microsoft.entityframeworkcore.analyzers.7.0.14.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.14\\microsoft.entityframeworkcore.design.7.0.14.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.14\\microsoft.entityframeworkcore.relational.7.0.14.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.14\\microsoft.entityframeworkcore.tools.7.0.14.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.extensions.dependencymodel\\7.0.0\\microsoft.extensions.dependencymodel.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\mysql.data\\6.2.5\\mysql.data.6.2.5.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\mysql.entityframeworkcore\\6.0.21\\mysql.entityframeworkcore.6.0.21.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\mysqlconnector\\2.3.1\\mysqlconnector.2.3.1.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\7.0.0\\pomelo.entityframeworkcore.mysql.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.2\\system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\josia\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "MySql.EntityFrameworkCore 6.0.21 depends on MySql.Data (>= 6.0.21) but MySql.Data 6.0.21 was not found. An approximate best match of MySql.Data 6.2.5 was resolved.",
+      "libraryId": "MySql.Data",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MySql.Data 6.2.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MySql.Data",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
